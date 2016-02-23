@@ -3,5 +3,5 @@ dependencies:
 
   - name: role-2
     src: git+git@github.com:vlfig/role-2.git
-    version: master
+    version: v1
     greeting: "role-1 was here, with {{ param }}"
